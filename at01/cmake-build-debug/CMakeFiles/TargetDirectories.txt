@@ -1,0 +1,3 @@
+C:/UTFPR/ED23S/at01/cmake-build-debug/CMakeFiles/at01.dir
+C:/UTFPR/ED23S/at01/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/UTFPR/ED23S/at01/cmake-build-debug/CMakeFiles/rebuild_cache.dir
